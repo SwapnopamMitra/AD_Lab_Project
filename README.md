@@ -2,9 +2,10 @@
 
 
 To execute do python app.py
+# Highly reccomended you do venv before installing requirements or executing the program
 keep everything in the same directory or the format it is in here:
 
-#smart-healthcare/
+smart-healthcare/
 │
 ├── app.py
 ├── model.py
